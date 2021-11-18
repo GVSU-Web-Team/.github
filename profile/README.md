@@ -1,7 +1,3 @@
-## Hi there 👋
+# The GVSU Web Team
 
-<!--
-
-**We are the GVSU Web Team:**
-
--->
+If you are trying to contact the GVSU webteam, please visit https://www.gvsu.edu/webteam/
