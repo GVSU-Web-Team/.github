@@ -1,1 +1,1 @@
-# .github
+# The GVSU Web Team
